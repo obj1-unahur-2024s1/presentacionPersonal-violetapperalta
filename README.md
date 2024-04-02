@@ -1,35 +1,22 @@
 ![Logo UNAHUR](./assets/UNAHUR.png)
 
-Bienvenidos a
-# ProgramaciÛn con objetos I
 
-En esta materia aprender·n sobre la famosa POO _(OOP en inglÈs)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
+# Violeta Porcel de Peralta
+Buenas, me llamo Violeta, comenc√© el primer a√±o de esta carrera a principios del 2023 gracias a la oportunidad que se abri√≥ en 2022 de poder estudiar de forma "h√≠brida" cursando en Rosario.
 
-```
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
+Anteriormente pas√© por otras universidades pero nunca termin√© ninguna porque iba dejando al no sentirme convencida de lo que estaba haciendo. 
 
-## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisiÛn 1 **turno noche**: Martes 18 a 22hs y S·bado 10 a 12hs.
-* Horario comisiÛn 2 **turno maÒana**: MiÈrcoles 8 a 12hs y S·bado 10 a 12hs. 
-* Este cuatrimestre los profesores somos Gerardo Gonz·lez Tulian, Lucas Spigariol, Cristian Ciarallo y Hern·n Coniglio
-* Adem·s nos acompaÒan como colaboradores Valentino Chiappanni, Manuel NuÒez y Lucian Coniglio.
+Actualmente no trabajo, aunque estoy en busca de, pero me gustar√≠a trabajar de algo relacionado a la programaci√≥n, no estoy segura a√∫n en qu√© √°rea pero s√≠ de que me gustar√≠a bastante. Mi meta ahora es aprender y disfrutar del conocimiento que nos otorgan los profes de cada materia e ir creciendo a la par, qui√©n sabe, este puede ser mi a√±o y conseguir un laburo de lo que me gustar√≠a.
 
-## Links importantes :monocle_face:
-- [x] [P·gina principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/13rFU2mObqdFF_2Ocimey_oHJ0Ldv-Gx0S1N4cfHKO4Q/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.gg/tqyHtPt) y ver el canal de Discord.
+## Me gusta..:
+Me gustan los gatos, me gustan todos los animales pero tengo un fuerte gusto por las mini panteras. 
+
+Me gusta mucho pasar tiempo en la computadora y aprender un poco de todo, no s√≥lo de programaci√≥n. La verdad es que es un desaf√≠o para mi lo que es "programaci√≥n", porque tiendo a ser una chica muy dispersa y lo cierto es que no siempre es divertido programar, a veces es tedioso y te desganas un poco, pero me gusta tomarmelo como un desaf√≠o y disfruto aprender cada d√≠a m√°s.
 
 
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
 
-* [GuÌa R‡pida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglÈs)_
 
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
+
+
+
+
